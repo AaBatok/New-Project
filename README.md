@@ -1,7 +1,5 @@
 # New-Project
 
-# My Project
-
 ## 📁 File Struktur
 
 - `index.html.txt` – halaman HTML utama.
@@ -22,7 +20,6 @@
 </body>
 </html>
 
-## 📄 Cuplikan Kode Python
 
 def main():
     print("Hello from Python!")
